@@ -30,6 +30,10 @@ OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 python store_index.py
 # Finally run the following command
 python app.py
+
+## Note about Data Files
+Large data files (like PDFs) have been excluded from this repository due to GitHub size limitations. To run the project locally, you will need to add your own medical documents to the `data/` directory.
+
 Now,
 
 open up localhost:
