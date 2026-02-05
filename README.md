@@ -6,10 +6,7 @@
 Use Git Bash to go to the Directory
 ------------------------------------
 cd /c/Users/gyana/Medical_Chatbot/Medical-Chatbot-using-LLM-Langchain-Flask-Pinecone-Flask-AWS
-
-
 Clone the repository
-
 git clonehttps://github.com/gyana10/Medical-Chatbot-using-LLM-Langchain-Flask-Pinecone-Flask-AWS.git
 
 STEP 01- Create a conda environment after opening the repository
