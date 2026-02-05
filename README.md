@@ -2,7 +2,6 @@
 
 # How to run?
 ### STEPS:
-
 Use Git Bash to go to the Directory
 ------------------------------------
 cd /c/Users/gyana/Medical_Chatbot/Medical-Chatbot-using-LLM-Langchain-Flask-Pinecone-Flask-AWS
